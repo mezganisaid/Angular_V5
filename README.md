@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
+## Install nodeJS adn NPM (Last version)
+
 ## Install dependencies
 
 `npm install` or `npm update`
